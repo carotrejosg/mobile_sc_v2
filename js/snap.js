@@ -417,14 +417,13 @@
                     if (cache.isDragging) {
                         utils.dispatchEvent('end');
                         var translated = action.translate.get.matrix(4);
-                        var header=document.getElementById('slogan');
+
                         // Tap Close
                         if (cache.dragWatchers.current === 0 && translated !== 0 && settings.tapToClose) {
                             utils.events.prevent(e);
                             action.translate.easeTo(0);
                             cache.isDragging = false;
                             cache.startDragX = 0;
-                            header.style.display = 'none';
                             return;
                         }
 
