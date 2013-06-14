@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" width="416px" height="410px" viewBox="0.5 0.2 416 410" xml:space="preserve">
+<defs>
+</defs>
+<rect y="100.8" fill="#FFCE37" width="416.5" height="102.3"/>
+<rect y="203.1" fill="#FFDA69" width="416.5" height="106.5"/>
+<rect y="308.5" fill="#FFE79B" width="416.5" height="102.3"/>
+<rect fill="#FFC205" width="416.5" height="102.3"/>
+<text transform="matrix(1 0 0 1 13.3091 142.377)" font-family="'HelveticaNeue'" font-size="40">ABCDEFGHIJKLMNÑ</text>
+<text transform="matrix(1 0 0 1 13.3091 190.377)" font-family="'HelveticaNeue'" font-size="40">OPQRSTUVWXYZ</text>
+<text transform="matrix(1 0 0 1 13.3091 244.9683)" font-family="'HelveticaNeue'" font-size="40">abcdefghijklmnñ</text>
+<text transform="matrix(1 0 0 1 13.3091 292.9683)" font-family="'HelveticaNeue'" font-size="40">opqrstuvwxyz</text>
+<text transform="matrix(1 0 0 1 13.3091 350.2163)" font-family="'HelveticaNeue'" font-size="40">0123456789</text>
+<text transform="matrix(1 0 0 1 13.3091 398.2163)" font-family="'HelveticaNeue'" font-size="40">¡!@¿?( )[ ] ,;.: - * + </text>
+<text transform="matrix(1 0 0 1 13.0693 73.377)" font-family="'HelveticaNeue'" font-size="56">Helvetica Neue</text>
+</svg>
